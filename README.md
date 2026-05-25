@@ -5,5 +5,8 @@ standard chattered bank gave me a credit simulation test so that i can analyse i
 <a href="https://github.com/dolar-ken/standard-chattered-credit-analysis-simulation/blob/main/Task%201%20Financial%20Reporting%20Tool.xlsx">Dataset used</a>
 ### process
 I analysed the dataset for Green Solutions Manufacturing Ltd and generated a summary for the comparisons of the two years and made visuals for the two years in order to easily compare different activities for the two years.
+<a href="https://github.com/dolar-ken/standard-chattered-credit-analysis-simulation/blob/main/dashboard.docx"> dashboard</a>
+### Report
+After completing the work, I wrote a report explaining to the manager why I recommended them to give Green Solutions Manufacturing Ltd credit as shown in the link.
 
 
