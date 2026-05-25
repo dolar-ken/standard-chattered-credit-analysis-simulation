@@ -8,5 +8,5 @@ I analysed the dataset for Green Solutions Manufacturing Ltd and generated a sum
 <a href="https://github.com/dolar-ken/standard-chattered-credit-analysis-simulation/blob/main/dashboard.docx"> dashboard</a>
 ### Report
 After completing the work, I wrote a report explaining to the manager why I recommended them to give Green Solutions Manufacturing Ltd credit as shown in the link.
-
+<a href="https://github.com/dolar-ken/standard-chattered-credit-analysis-simulation/blob/main/credit_analysis_report.docx">report </a>
 
